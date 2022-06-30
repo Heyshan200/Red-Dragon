@@ -20,15 +20,15 @@ global.APIKeys = {
 
 //customize settings\\
 
-global.alivemsg = `My name is SL HESHAN🔥
-My Creator is heshan chathumal😎` //Costomize Alive Message (type your message in `` )
+global.alivemsg = `𝘏𝘐, 𝘐 𝘢𝘮 𝘳𝘦𝘥 𝘥𝘳𝘢𝘨𝘰𝘯🔥
+My Creator is pathum vihaga😎` //Costomize Alive Message (type your message in `` )
 
-global.owner = ['+94783961232'] //Owner number in aive msg
-global.premium = ['+94783961232'] //Owner Number info
-global.ownernomer = '+94783961232' //Owner Number <<<
+global.owner = ['94741342341'] //Owner number in aive msg
+global.premium = ['94741342341'] //Owner Number info
+global.ownernomer = '94741342341' //Owner Number <<<
 
-global.ownername = '😎H.CHATHUMAL' //Owner Name
-global.botname = ' ☬BAD༒HESHAN' //Bot Name
+global.ownername = '😎dark king' //Owner Name
+global.botname = ' dark king watsapp bot' //Bot Name
 
 global.button = '🤭මේක ටච් කරන්න📍' //Costomize A Button Name In Alive Message
 global.btnurl = '🙂🔥දැන් සැපද?😑' //Change Your Button's URL
